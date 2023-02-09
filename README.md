@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java Developer<h3>
   <h3>My projects:</h3>
-  <h4>Pet-project:</h4>
+  <h4>Pet-projects:</h4>
     <li><a href="https://github.com/karaculya/shop">Spring-application</a></li>
     <li><a href="https://github.com/karaculya/telegram_bot">Telegram-bot</a></li>
     <li><a href="https://github.com/karaculya/ImageRedactor">Desktop-application that edits pictures</a></li>
