@@ -11,6 +11,9 @@
     <li><a href="https://github.com/karaculya/skillbox">Coffee machine - console-application</a></li>
   <h4>Tasks from univer:</h4>
     <li><a href="https://github.com/karaculya/visual_db">Task in which set up connection to sqlite database</a></li>
+    
+     ##
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annandreeva)](https://github.com/annandreeva/github-readme-stats)
   
 <!--
 **karaculya/karaculya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
