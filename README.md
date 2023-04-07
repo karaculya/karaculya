@@ -11,11 +11,6 @@
     <li><a href="https://github.com/karaculya/skillbox">Coffee machine - console-application</a></li>
   <h4>Tasks from univer:</h4>
     <li><a href="https://github.com/karaculya/visual_db">Task in which set up connection to sqlite database</a></li>
-  
-  - 1
-  - 2
-  -- 3
-  -4
 <!--
 **karaculya/karaculya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
