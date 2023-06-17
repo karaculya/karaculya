@@ -15,7 +15,7 @@ With my skills in Java, web development, and system design, I am confident I can
 #### Projects from courses/intensives:
 - [Tasks from JavaRush](https://github.com/karaculya/JavaRushTasks)
 - [Coffee machine](https://github.com/karaculya/skillbox) - console-application
-#### Tasks from univer:
+#### Tasks from university:
 - [Task](https://github.com/karaculya/visual_db) in which set up connection to sqlite database
 - [Coursework on internet technologies](https://github.com/karaculya/akhmadcoffee) - coffee shop website
 
