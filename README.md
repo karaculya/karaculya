@@ -3,7 +3,9 @@
 <p align = 'center'>
   <a href="https://github-readme-stats.vercel.app/api?username=karaculya&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=karaculya&show_icons=true&count_private=true" /></a>
   <a href="https://github.com/karaculya/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=karaculya&layout=compact"/>  </a>
-  <a href="mailto:karin0akhmadullina@gmail.com">
+</p>
+<p align='center'>
+    <a href="mailto:karin0akhmadullina@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a href="https://t.me/kryaccan">
