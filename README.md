@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Karina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-I am a Business Informatics student passionate about learning Java and creating web applications. I have practical experience in HTML, CSS, and JavaScript through various web projects, and I enjoy designing systems using UML diagrams. Additionally, I am proficient in Google Apps Script and constantly seek new challenges to learn and grow. 
+I am a Business Informatics student passionate about learning Java and creating web applications. I have practical experience in HTML, CSS, and JavaScript through various web projects, and I enjoy designing systems using UML diagrams. Additionally, I am constantly seek new challenges to learn and grow. 
   
 With my skills in Java, web development, and system design, I am confident I can contribute to any innovative and creative organization.
 
