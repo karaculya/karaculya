@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Karina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://komarev.com/ghpvc/?username=emp7yhead&style=flat-square" alt="Profile views" align="right">
 <h3 align="center">Java Developer<h3>
   
 ## About me:
@@ -18,6 +19,17 @@ With my skills in Java, web development, and system design, I am confident I can
 #### Tasks from univer:
 - [Task](https://github.com/karaculya/visual_db) in which set up connection to sqlite database
 - [Coursework on internet technologies](https://github.com/karaculya/akhmadcoffee) - coffee shop website
+
+<p align="center">
+  <b>My contacts:</b>
+  <br>
+  <a href="mailto:karin0akhmadullina@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="https://t.me/kryaccan">
+    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+</p>
 <!--
 **karaculya/karaculya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
