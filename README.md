@@ -1,5 +1,15 @@
 <h1 align="center">Hi there, I'm Karina <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java Developer<h3>
+<p align = 'center'>
+  <a href="https://github-readme-stats.vercel.app/api?username=karaculya&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=karaculya&show_icons=true&count_private=true" /></a>
+  <a href="https://github.com/karaculya/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=karaculya&layout=compact"/>  </a>
+  <a href="mailto:karin0akhmadullina@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="https://t.me/kryaccan">
+    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+</p>
   
 ## About me:
 
@@ -19,15 +29,6 @@ With my skills in Java, web development, and system design, I am confident I can
 - [Task](https://github.com/karaculya/visual_db) in which set up connection to sqlite database
 - [Coursework on internet technologies](https://github.com/karaculya/akhmadcoffee) - coffee shop website
 
-## My contacts:
-
-  <a href="mailto:karin0akhmadullina@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-  <a href="https://t.me/kryaccan">
-    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
-  </a>
-  
 <!--
 **karaculya/karaculya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
