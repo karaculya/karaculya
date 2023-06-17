@@ -9,7 +9,7 @@ With my skills in Java, web development, and system design, I am confident I can
 
 ## My projects:
 #### Pet-projects:  
-- [Spring-boot application](https://github.com/karaculya/akhmad-courses) for educational process management
+- [Spring-boot application](https://github.com/karaculya/akhmad-courses) e-learning site like Moodle
 - [Telegram bot](https://github.com/karaculya/telegram_bot) to show class schedule
 - [Desktop-application](https://github.com/karaculya/ImageRedactor) that edits pictures
 #### Projects from courses/intensives:
@@ -18,7 +18,6 @@ With my skills in Java, web development, and system design, I am confident I can
 #### Tasks from univer:
 - [Task](https://github.com/karaculya/visual_db) in which set up connection to sqlite database
 - [Coursework on internet technologies](https://github.com/karaculya/akhmadcoffee) - coffee shop website
-- [Coursework on web design](https://github.com/karaculya/akhmad-courses) - e-learning site like Moodle
 <!--
 **karaculya/karaculya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
