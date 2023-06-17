@@ -9,7 +9,7 @@ With my skills in Java, web development, and system design, I am confident I can
 
 ## My projects:
 #### Pet-projects:  
-- [Spring-boot application](https://github.com/karaculya/shop) for educational process management
+- [Spring-boot application](https://github.com/karaculya/akhmad-courses) for educational process management
 - [Telegram bot](https://github.com/karaculya/telegram_bot) to show class schedule
 - [Desktop-application](https://github.com/karaculya/ImageRedactor) that edits pictures
 #### Projects from courses/intensives:
